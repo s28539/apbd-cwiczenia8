@@ -333,9 +333,5 @@ namespace Exercise6
             return result;
         }
     }
-
-    public static class CustomExtensionMethods
-    {
-        //Put your extension methods here
-    }
+    
 }
